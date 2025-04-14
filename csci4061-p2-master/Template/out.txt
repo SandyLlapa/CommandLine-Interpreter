@@ -1,0 +1,18 @@
+In directory: /home/llapa016/Desktop/temp/csci4061-p2/Template
+util.c
+wc
+shell.c
+README
+data.txt
+testing.txt
+cd.c
+util.o
+ls
+ls.c
+util.h
+shell
+Makefile
+out.txt
+out.tx
+wc.c
+cd
