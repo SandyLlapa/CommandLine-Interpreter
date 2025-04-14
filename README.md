@@ -1,0 +1,26 @@
+
+Date: 2/29/2024
+Name: Alaina Johnson, Tien Nguyen, Sandy Llapa
+
+Contributions:
+Alaina Johnson:
+
+
+Tien Nguyen:
+  Completed ls.c and file redirection. Helped figure out to handle commands with one argument.
+
+Sandy Llapa:
+  completed wc.c , pipes, main, unix shell implementation, helped fixed redirection, and handled commands that combined both pipes and redirection. Also made sure the right commands were called for each input. 
+
+
+
+How to compile the program:
+When in the template folder in the terminal, write "make" and hit enter, then enter in ./shell and hit enter.  From here you can enter either wc [input] where [input] is the input for wc, cd [input] where [input] is the input for cd, or ls [input] where [input] is the input for ls but also can be left empty.
+
+The purpose of the program:
+The purpose of this program is to behave like a terminal shell and execute shell commands as they would on an actual windows, or similar, shell.
+What the program does:
+ 
+
+Assumptions:
+None
